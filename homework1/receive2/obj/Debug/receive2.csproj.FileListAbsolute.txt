@@ -1,0 +1,10 @@
+C:\Users\夏宇航\source\repos\homework1\receive2\bin\Debug\receive2.exe.config
+C:\Users\夏宇航\source\repos\homework1\receive2\bin\Debug\receive2.exe
+C:\Users\夏宇航\source\repos\homework1\receive2\bin\Debug\receive2.pdb
+C:\Users\夏宇航\source\repos\homework1\receive2\obj\Debug\receive2.csprojAssemblyReference.cache
+C:\Users\夏宇航\source\repos\homework1\receive2\obj\Debug\receive2.Form1.resources
+C:\Users\夏宇航\source\repos\homework1\receive2\obj\Debug\receive2.Properties.Resources.resources
+C:\Users\夏宇航\source\repos\homework1\receive2\obj\Debug\receive2.csproj.GenerateResource.cache
+C:\Users\夏宇航\source\repos\homework1\receive2\obj\Debug\receive2.csproj.CoreCompileInputs.cache
+C:\Users\夏宇航\source\repos\homework1\receive2\obj\Debug\receive2.exe
+C:\Users\夏宇航\source\repos\homework1\receive2\obj\Debug\receive2.pdb
