@@ -1,0 +1,7 @@
+C:\Users\夏宇航\source\repos\homework2\homework2\bin\Debug\homework2.exe.config
+C:\Users\夏宇航\source\repos\homework2\homework2\bin\Debug\homework2.exe
+C:\Users\夏宇航\source\repos\homework2\homework2\bin\Debug\homework2.pdb
+C:\Users\夏宇航\source\repos\homework2\homework2\obj\Debug\homework2.csprojAssemblyReference.cache
+C:\Users\夏宇航\source\repos\homework2\homework2\obj\Debug\homework2.csproj.CoreCompileInputs.cache
+C:\Users\夏宇航\source\repos\homework2\homework2\obj\Debug\homework2.exe
+C:\Users\夏宇航\source\repos\homework2\homework2\obj\Debug\homework2.pdb
