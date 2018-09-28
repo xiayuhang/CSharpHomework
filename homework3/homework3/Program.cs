@@ -10,21 +10,48 @@ namespace homework3
     { 
         static void Main(string[] args)
         {
-            triangle triangle = new triangle();
-            int s1=triangle.TriangleArea(2,3);
-            Console.WriteLine("the triangle's area is "+s1);
+            Console.WriteLine("please input the form:");
+            string form =Console.ReadLine();
 
-            rectangle rectangle = new rectangle();
-            int s2=rectangle.RectangleArea(3, 4);
-            Console.WriteLine("the rectangle's area is " + s2);
+            if (form== "triangle")
+            {
+                triangle triangle = new triangle();
+                Console.WriteLine("please input the length ");
+                int length = Console.Read();
+                Console.WriteLine("please input the width ");
+                int width = Console.Read();
+                int s1 = triangle.TriangleArea(length, width);
+                Console.WriteLine("the triangle's area is " + s1);
+            }
 
-            square square = new square();
-            int s3=square.SquareArea(1);
-            Console.WriteLine("the square's area is " + s3);
+            if (form== "rectangle")
+            {
+                rectangle rectangle = new rectangle();
+                Console.WriteLine("please input the bottomlength ");
+                int bottomlength = Console.Read();
+                Console.WriteLine("please input the height ");
+                int height = Console.Read();
+                int s2 = rectangle.RectangleArea(bottomlength, height);
+                Console.WriteLine("the rectangle's area is " + s2);
+            }
 
-            circle circle = new circle();
-            double s4=circle.CircleArea(1);
-            Console.WriteLine("the circle's area is " + s4);
+            if (form == "square")
+            {
+                square square = new square();
+                Console.WriteLine("please input the sidelength ");
+                int sidelength = Console.Read();
+                int s3 = square.SquareArea(sidelength);
+                Console.WriteLine("the square's area is " + s3);
+            }
+
+            if (form == "circle")
+            {
+                circle circle = new circle();
+                Console.WriteLine("please input the radius ");
+                int radius = Console.Read();
+                double s4 = circle.CircleArea(radius);
+                Console.WriteLine("the circle's area is " + s4);
+            }
         }
     }
 
@@ -60,7 +87,7 @@ namespace homework3
 
     public class circle
     {
-        const double PI = 3.1415936;
+        const double PI = 3.1415926;
         public double CircleArea(int r)
         {
             double s4;
