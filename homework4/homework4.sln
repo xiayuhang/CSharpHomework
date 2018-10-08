@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clock", "homework4\clock.csproj", "{6511EB15-0133-49AA-B697-EFCB10A4FA4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "order", "order\order.csproj", "{11675DFC-FA64-47FA-BEFC-0974F713E557}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6511EB15-0133-49AA-B697-EFCB10A4FA4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6511EB15-0133-49AA-B697-EFCB10A4FA4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6511EB15-0133-49AA-B697-EFCB10A4FA4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6511EB15-0133-49AA-B697-EFCB10A4FA4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11675DFC-FA64-47FA-BEFC-0974F713E557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11675DFC-FA64-47FA-BEFC-0974F713E557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11675DFC-FA64-47FA-BEFC-0974F713E557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11675DFC-FA64-47FA-BEFC-0974F713E557}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {703F1D42-8F8F-40E4-A7C9-955354B6FB88}
+	EndGlobalSection
+EndGlobal
