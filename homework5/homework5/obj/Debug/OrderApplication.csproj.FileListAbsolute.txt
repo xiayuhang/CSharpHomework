@@ -1,0 +1,7 @@
+C:\Users\夏宇航\source\repos\homework5\homework5\bin\Debug\homework5.exe.config
+C:\Users\夏宇航\source\repos\homework5\homework5\bin\Debug\homework5.exe
+C:\Users\夏宇航\source\repos\homework5\homework5\bin\Debug\homework5.pdb
+C:\Users\夏宇航\source\repos\homework5\homework5\obj\Debug\OrderApplication.csprojAssemblyReference.cache
+C:\Users\夏宇航\source\repos\homework5\homework5\obj\Debug\OrderApplication.csproj.CoreCompileInputs.cache
+C:\Users\夏宇航\source\repos\homework5\homework5\obj\Debug\homework5.exe
+C:\Users\夏宇航\source\repos\homework5\homework5\obj\Debug\homework5.pdb
