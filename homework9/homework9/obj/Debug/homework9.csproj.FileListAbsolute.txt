@@ -1,0 +1,7 @@
+C:\Users\夏宇航\source\repos\homework9\homework9\bin\Debug\homework9.exe.config
+C:\Users\夏宇航\source\repos\homework9\homework9\bin\Debug\homework9.exe
+C:\Users\夏宇航\source\repos\homework9\homework9\bin\Debug\homework9.pdb
+C:\Users\夏宇航\source\repos\homework9\homework9\obj\Debug\homework9.csprojAssemblyReference.cache
+C:\Users\夏宇航\source\repos\homework9\homework9\obj\Debug\homework9.csproj.CoreCompileInputs.cache
+C:\Users\夏宇航\source\repos\homework9\homework9\obj\Debug\homework9.exe
+C:\Users\夏宇航\source\repos\homework9\homework9\obj\Debug\homework9.pdb
