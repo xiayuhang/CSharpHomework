@@ -1,0 +1,15 @@
+C:\Users\夏宇航\source\repos\homework10\homework10\obj\Debug\homework10.csprojAssemblyReference.cache
+C:\Users\夏宇航\source\repos\homework10\homework10\obj\Debug\homework10.Properties.Resources.resources
+C:\Users\夏宇航\source\repos\homework10\homework10\obj\Debug\homework10.csproj.GenerateResource.cache
+C:\Users\夏宇航\source\repos\homework10\homework10\obj\Debug\homework10.csproj.CoreCompileInputs.cache
+C:\Users\夏宇航\source\repos\homework10\homework10\bin\Debug\homework10.exe.config
+C:\Users\夏宇航\source\repos\homework10\homework10\bin\Debug\homework10.exe
+C:\Users\夏宇航\source\repos\homework10\homework10\bin\Debug\homework10.pdb
+C:\Users\夏宇航\source\repos\homework10\homework10\obj\Debug\homework10.exe
+C:\Users\夏宇航\source\repos\homework10\homework10\obj\Debug\homework10.pdb
+C:\Users\夏宇航\source\repos\homework10\homework10\bin\Debug\EntityFramework.dll
+C:\Users\夏宇航\source\repos\homework10\homework10\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\夏宇航\source\repos\homework10\homework10\bin\Debug\MySql.Data.dll
+C:\Users\夏宇航\source\repos\homework10\homework10\bin\Debug\EntityFramework.xml
+C:\Users\夏宇航\source\repos\homework10\homework10\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\夏宇航\source\repos\homework10\homework10\obj\Debug\homework10.csproj.CopyComplete

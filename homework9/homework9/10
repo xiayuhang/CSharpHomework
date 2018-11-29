@@ -1,0 +1,88 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="renderer" content="webkit" />
+    <meta name="force-rendering" content="webkit" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <title>用户登录 - 博客园</title>
+    <link rel="stylesheet" href="/scripts/bootstrap/css/bootstrap.min.css" />
+    <link href="/scripts/ladda/ladda-themeless.min.css" rel="stylesheet" />
+    <link href="/css/signin_bundle.css?v=L6jW_dned1XSxz8ohN2oMp1Q1fPUq1W5sWqqw6HNaH01" type="text/css" rel="stylesheet" />   
+    <script src="/scripts/jquery.min.js"></script>
+    <script src="/scripts/bootstrap/js/bootstrap.min.js"></script>
+    <script src="/scripts/ladda/spin.min.js"></script>
+    <script src="/scripts/ladda/ladda.min.js"></script>
+    <script src="/scripts/jsencrypt.min.js"></script>
+    <script>
+        var return_url = 'http://i.cnblogs.com/EditPosts.aspx?postid=250188';
+        var ajax_url = '/user' + '/signin';
+        var enable_captcha = true;
+        var is_in_progress = false;
+    </script>
+    <script src="/scripts/signin_bundle.js?v=aLP1w0CsU0WHubCQarLqYB0Z2-Duh7zKUTwnKZ6soUA1"></script>
+
+</head>
+<body onload="setFocus()">
+    <div style="width: 100%;">
+        <div align="center">
+            <div id="Main">
+                <noscript>
+                    <div style="font-size:15px;margin-bottom:20px;">
+                        您的浏览器未启用Javascript，无法进行登录。
+                    </div>
+                    <style>
+                        form {
+                            display: none;
+                        }
+                    </style>
+                </noscript>
+                <form method="post" onsubmit="return false;">
+                    <div id="Heading">登录博客园 - 代码改变世界</div>
+                    <div class="block">
+                        <label class="label-line">登录用户名(<a href="/GetUsername.aspx" tabindex="-1" class="tb_right">找回</a>)</label>
+                        <input type="text" id="input1" value="" class="input-text" onkeydown="check_enter(event)" /> <span id="tip_input1" class="tip"></span>
+                    </div>
+                    <div class="block">
+                        <label class="label-line">密码(<a href="/GetMyPassword.aspx" tabindex="-1" class="tb_right">重置</a>)</label>
+                        <input type="password" id="input2" value="" class="input-text" onkeydown="check_enter(event)" /> <span id="tip_input2" class="tip"></span>
+                    </div>
+
+                    <div class="modal fade" id="checkWay" tabindex="-1" role="dialog" aria-hidden="true">
+                        <div class="modal-dialog">
+                            <div class="modal-content center-block">
+                                <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                                    <h4 class="modal-title">
+                                        请完成人机识别验证
+                                    </h4>
+                                </div>
+                                <div class="modal-body">
+                                    <div id="showLoading" class="ladda-button" data-style="zoom-in"></div>
+                                    <div id="captchaBox" class="center-block">
+                                        <span id="geetestLoading"> 验证码组件加载中,请稍后...</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="block">
+                        <input id="remember_me" type="checkbox" name="remember_me" onkeydown="check_enter(event)" /><label for="remember_me" onkeydown="check_enter(event)">下次自动登录</label>
+                    </div>
+                    <div class="block">
+                        <input type="submit" id="signin" class="button" value="加载中..." /> <span id="tip_btn" class="tip"></span>
+                    </div>
+                    <div class="block nav">
+                        &raquo; <a href="/register.aspx?ReturnUrl=http://i.cnblogs.com/EditPosts.aspx?postid=250188" title="注册成为博客园用户">立即注册</a><br />
+                        &raquo; <a href="http://www.cnblogs.com/ContactUs.aspx">反馈问题</a>
+                    </div>
+                </form>
+                <div style="clear: both" />
+            </div>
+        </div>
+    </div>
+</body>
+</html>

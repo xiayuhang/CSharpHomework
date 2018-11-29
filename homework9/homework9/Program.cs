@@ -23,7 +23,7 @@ namespace homework9
             {
                 Crawler myCrawler = new Crawler();
 
-                string startUrl = "https://www.csdn.net/";
+                string startUrl = "https://www.cnblogs.com/dstang2000/";
                 myCrawler.startUrl = startUrl;
                 if (args.Length >= 1)
                     startUrl = args[0];

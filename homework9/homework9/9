@@ -1,0 +1,119 @@
+
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="referrer" content="origin" />
+<title> 2005年3月6日 随笔档案 - 拓荒者 - 博客园</title>
+<link type="text/css" rel="stylesheet" href="/bundles/blog-common.css?v=-duj5vpGTntb85GJoM3iRI972XwWcI-j8zmqDzyfu2w1"/>
+<link id="MainCss" type="text/css" rel="stylesheet" href="/skins/AnotherEon001/bundle-AnotherEon001.css?v=U5UoQIHpO_JKVLfS-_cGiJfvyStJK8n3Tl6p4K1f3ZI1"/>
+<link id="mobile-style" media="only screen and (max-width: 767px)" type="text/css" rel="stylesheet" href="/skins/AnotherEon001/bundle-AnotherEon001-mobile.css?v=14BbNtH7YBR-xq4qqgoRH59g81h19XFR_pQeS0AdJok1"/>
+<link title="RSS" type="application/rss+xml" rel="alternate" href="https://www.cnblogs.com/dstang2000/rss"/>
+<link title="RSD" type="application/rsd+xml" rel="EditURI" href="https://www.cnblogs.com/dstang2000/rsd.xml"/>
+<link type="application/wlwmanifest+xml" rel="wlwmanifest" href="https://www.cnblogs.com/dstang2000/wlwmanifest.xml"/>
+<script src="//common.cnblogs.com/scripts/jquery-2.2.0.min.js"></script>
+<script type="text/javascript">var currentBlogApp = 'dstang2000', cb_enable_mathjax=false;var isLogined=false;</script>
+<script src="/bundles/blog-common.js?v=oVrWjmbP-rXxVp7O71kev8vWEZCetdwYaIziKHJCYc41" type="text/javascript"></script>
+</head>
+<body>
+<a name="top"></a>
+
+<div id="wrapper">
+<div id="header">
+
+<div id="top">
+<h1><a id="Header1_HeaderTitle" class="headermaintitle" href="https://www.cnblogs.com/dstang2000/">拓荒者 dstang2000 <a href="http://www.dstang.com"><font size=-1 color=red>http://www.dstang.com</font></a></h1>
+<div id="subtitle">KISS：Keeping things that work，Improve systems procedures styles，Start things of value，Stop things of no value </div>
+</div>
+<div id="sub"><div id="blog_stats">
+<div class="BlogStats">随笔 - 4, 文章 - 1, 评论 - 17, 引用 - 0</div>
+</div></div>
+
+
+
+</div>
+<div id="main_container">
+<div id="main_content">
+<div id="content">
+	
+
+<p class="date">
+	<span>		  
+	<a id="ArchiveDay1_SingleDay_ctl00_ImageLink" Title="Day Archive" href="https://www.cnblogs.com/dstang2000/archive/2005/03/06.html" style="display:inline-block;">2005年3月6日</a>
+	</span>
+</p>
+
+
+		<div class="post">
+			<h2><a id="ArchiveDay1_SingleDay_ctl00_DayList_TitleUrl_0" href="https://www.cnblogs.com/dstang2000/articles/113796.html">我的小工具RssInIE： 在IE中点右键，可以直接查看RSS </a></h2>
+			<div class="postbody">
+			<div class="c_b_p_desc">摘要: 请参见随笔： Rss In IE<a href="https://www.cnblogs.com/dstang2000/articles/113796.html" class="c_b_p_desc_readmore">阅读全文</a></div>
+			</div>
+			<p class="postfoot">		
+			posted @ 2005-03-06 08:55 拓荒者 阅读(376) 评论(2) &nbsp;<a href="https://i.cnblogs.com/EditArticles.aspx?postid=113796" rel="nofollow">编辑</a>
+			</p>
+		</div>
+	
+		<div class="post">
+			<h2><a id="ArchiveDay1_SingleDay_ctl00_DayList_TitleUrl_1" href="https://www.cnblogs.com/dstang2000/archive/2005/03/06/113761.html">小工具RssInIE： 在IE中点右键，可以直接查看RSS</a></h2>
+			<div class="postbody">
+			<div class="c_b_p_desc">摘要: 最近RSS越来越流行，一般都需要专用的软件，有时候，在IE中看见的只是xml文件，很不方便。 我这里做了一个小工具，作为IE的插件，使得点右键&#8220;选Rss In IE&#8221;时，可以直接查看RSS。 程序的原理是使用xslt将RSS的xml转成为链接，放到窗口左边，而右边用一个iframe来放内容。 （由于iframe使用得不太好，欢迎提出改进意见）。 下载RssInIE：RssI...<a href="https://www.cnblogs.com/dstang2000/archive/2005/03/06/113761.html" class="c_b_p_desc_readmore">阅读全文</a></div>
+			</div>
+			<p class="postfoot">		
+			posted @ 2005-03-06 00:56 拓荒者 阅读(1459) 评论(5)  <a href ="https://i.cnblogs.com/EditPosts.aspx?postid=113761" rel="nofollow">编辑</a>
+			</p>
+		</div>
+	
+
+
+
+</div>
+</div>
+<div id="leftmenu">
+
+
+<h3>导航</h3>
+<ul>
+<li>
+<a id="blog_nav_sitehome" href="https://www.cnblogs.com/">博客园</a></li>
+<li>
+<a id="blog_nav_myhome" class="two_words" href="https://www.cnblogs.com/dstang2000/">首页</a></li>
+<li>
+<a id="blog_nav_newpost" rel="nofollow" href="https://i.cnblogs.com/EditPosts.aspx?opt=1">新随笔</a></li>
+<li>
+<a id="blog_nav_contact" accesskey="9" class="two_words" rel="nofollow" href="https://msg.cnblogs.com/send/%E6%8B%93%E8%8D%92%E8%80%85">联系</a></li>
+<li>
+<a id="blog_nav_rss" class="two_words" href="https://www.cnblogs.com/dstang2000/rss">订阅</a>
+<a id="blog_nav_rss_image" href="https://www.cnblogs.com/dstang2000/rss"><img src="//www.cnblogs.com/images/xml.gif" alt="订阅" /></a>
+</li>
+<li>
+<a id="blog_nav_admin" class="two_words" rel="nofollow" href="https://i.cnblogs.com/">管理</a></li>
+</ul>
+
+<div id="blog-calendar" style="display:none"></div><script type="text/javascript">loadBlogDefaultCalendar();</script>
+<meta name="vs_showGrid" content="False">
+
+<h3>公告</h3>
+<div id="blog-news"></div><script type="text/javascript">loadBlogNews();</script>
+
+<div id="blog-sidecolumn"></div><script type="text/javascript">loadBlogSideColumn();</script>
+
+</div>
+</div>
+<div class="clear"></div>
+<div id="footer">
+
+<p id="footer">
+	Powered by: 
+	<br />
+	
+	<a id="Footer1_Hyperlink3" NAME="Hyperlink1" href="https://www.cnblogs.com/"><font face="Verdana">博客园</font></a>
+	<br />
+	Copyright &copy; 拓荒者
+</p>
+</div>
+</div>
+
+</body>
+</html>
